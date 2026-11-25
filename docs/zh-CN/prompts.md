@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 12 条 Hy4 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Hy4 Flash 一键 **复刻**。第一次写 Hy4 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 14 条 Hy4 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Hy4 Flash 一键 **复刻**。第一次写 Hy4 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (3)
 - [动效](#motion-graphics) (1)
 - [游戏](#game) (1)
-- [测试对比](#comparison) (7)
+- [测试对比](#comparison) (9)
 
 <a id="3d-scene"></a>
 
@@ -266,4 +266,63 @@ Hy4 Flash (default setting): 53 s, $0.004
 Hydrogen cost 35x the price of Hy4 Flash for the same prompt.
 
 Which one would you ship?
+```
+
+### 双模型构建飞行任务游戏对比
+
+[@idlenyro](https://x.com/idlenyro/status/2125326219436814350) · [观看](https://www.sandbase.ai/lab/media/x/hy4-flash/2125326219436814350/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125326219436814350?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+i gave 2 FREE models the same prompt: build a GTA 6 style plane mission in one HTML file 😳
+
+hy4 flash: ~13 mins, just wrote it
+deepseek v4.1 flash: ~29 mins, tested and fixed its own build first
+
+no follow-ups. both hit MISSION PASSED
+
+who won? https://x.com/idlenyro/status/2124088145805472252
+```
+
+### 四款AI模型制作手机游戏
+
+[@details_with_ai](https://x.com/details_with_ai/status/2125514383828926596) · [观看](https://www.sandbase.ai/lab/media/x/hy4-flash/2125514383828926596/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125514383828926596?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+🔥 Can AI coding agents build a playable mobile game from just ONE prompt?
+
+I tested the same game-building challenge using 4 different AI models inside @WorkBuddy_AI.
+
+Here are the models I tested:
+
+⚡ DeepSeek V4 Flash
+⚡ Hy4 Flash
+⚡ GPT-5.3
+⚡ GLM-5.3-Flash
+
+🎮 The challenge?
+
+Build a complete Number Gate Battle game featuring:
+
+🔹 3-lane movement
+🔹 Number gates to multiply or increase player strength
+🔹 Power collection and enemy battles
+🔹 Multiple weapons and combat mechanics
+🔹 A final boss battle
+🔹 Smooth animations and playable controls
+
+What made this experiment interesting was seeing how four different models approached the same coding challenge and produced different game experiences.
+
+I recorded the gameplay and put the four results side by side so you can see the differences yourself.
+
+My takeaway: The numerical design of GLM-5.3-Flash and GPT-5.3 makes the game too easy; in contrast, the values ​​in DeepseekV4 Flash and Hy4 Flash are more reasonable.
+
+🎁 Want to try it yourself?
+
+Hy4 Flash is available FREE inside WorkBuddy until November 30, 2026.
+
+👉 http://workbuddy.ai/invite?code=HZ578LS8
+
+Thanks to @TencentAI_News and @TencentHunyuan for making this experiment possible.
+
+#Hy4Flash #WorkBuddy #AICoding #GameDevelopment #AI
 ```

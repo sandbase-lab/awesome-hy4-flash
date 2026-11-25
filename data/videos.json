@@ -1072,5 +1072,79 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125314175467491405/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125314175467491405"
+ },
+ {
+  "id": "2125326219436814350",
+  "title": "Comparing two models building a plane mission",
+  "title_zh": "双模型构建飞行任务游戏对比",
+  "category": "comparison",
+  "author": {
+   "handle": "idlenyro",
+   "name": "nyro"
+  },
+  "postUrl": "https://x.com/idlenyro/status/2125326219436814350",
+  "createdAt": "2026-11-24T20:30:32.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125326219436814350/video.mp4",
+  "promptShared": true,
+  "promptText": "i gave 2 FREE models the same prompt: build a GTA 6 style plane mission in one HTML file 😳\n\nhy4 flash: ~13 mins, just wrote it\ndeepseek v4.1 flash: ~29 mins, tested and fixed its own build first\n\nno follow-ups. both hit MISSION PASSED\n\nwho won? https://x.com/idlenyro/status/2124088145805472252",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125326219436814350/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125326219436814350"
+ },
+ {
+  "id": "2125444178125758962",
+  "title": "Pacman game built in Three.js",
+  "title_zh": "Three.js构建的吃豆人游戏",
+  "category": "game",
+  "author": {
+   "handle": "Beamsters1",
+   "name": "Beamsters"
+  },
+  "postUrl": "https://x.com/Beamsters1/status/2125444178125758962",
+  "createdAt": "2026-11-25T04:19:15.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125444178125758962/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125444178125758962/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125444178125758962"
+ },
+ {
+  "id": "2125447395307835571",
+  "title": "A mini game built with AI",
+  "title_zh": "用AI构建的迷你游戏",
+  "category": "game",
+  "author": {
+   "handle": "Ciri_ai",
+   "name": "Ciri"
+  },
+  "postUrl": "https://x.com/Ciri_ai/status/2125447395307835571",
+  "createdAt": "2026-11-25T04:32:02.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2125447395307835571/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2125447395307835571/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125447395307835571"
+ },
+ {
+  "id": "2125514383828926596",
+  "title": "Four AI models building a mobile game",
+  "title_zh": "四款AI模型制作手机游戏",
+  "category": "comparison",
+  "author": {
+   "handle": "details_with_ai",
+   "name": "Rasel Hosen"
+  },
+  "postUrl": "https://x.com/details_with_ai/status/2125514383828926596",
+  "createdAt": "2026-11-25T08:58:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125514383828926596/video.mp4",
+  "promptShared": true,
+  "promptText": "🔥 Can AI coding agents build a playable mobile game from just ONE prompt?\n\nI tested the same game-building challenge using 4 different AI models inside @WorkBuddy_AI.\n\nHere are the models I tested:\n\n⚡ DeepSeek V4 Flash\n⚡ Hy4 Flash\n⚡ GPT-5.3\n⚡ GLM-5.3-Flash\n\n🎮 The challenge?\n\nBuild a complete Number Gate Battle game featuring:\n\n🔹 3-lane movement\n🔹 Number gates to multiply or increase player strength\n🔹 Power collection and enemy battles\n🔹 Multiple weapons and combat mechanics\n🔹 A final boss battle\n🔹 Smooth animations and playable controls\n\nWhat made this experiment interesting was seeing how four different models approached the same coding challenge and produced different game experiences.\n\nI recorded the gameplay and put the four results side by side so you can see the differences yourself.\n\nMy takeaway: The numerical design of GLM-5.3-Flash and GPT-5.3 makes the game too easy; in contrast, the values ​​in DeepseekV4 Flash and Hy4 Flash are more reasonable.\n\n🎁 Want to try it yourself?\n\nHy4 Flash is available FREE inside WorkBuddy until November 30, 2026.\n\n👉 http://workbuddy.ai/invite?code=HZ578LS8\n\nThanks to @TencentAI_News and @TencentHunyuan for making this experiment possible.\n\n#Hy4Flash #WorkBuddy #AICoding #GameDevelopment #AI",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125514383828926596/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125514383828926596"
  }
 ]

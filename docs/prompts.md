@@ -2,14 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-12 Hy4 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Hy4 Flash on SandBase Lab. New to prompting Hy4 Flash? Start with the [prompt guide](prompt-guide.md).
+14 Hy4 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Hy4 Flash on SandBase Lab. New to prompting Hy4 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (3)
 - [Motion graphics](#motion-graphics) (1)
 - [Games](#game) (1)
-- [Tests & comparisons](#comparison) (7)
+- [Tests & comparisons](#comparison) (9)
 
 <a id="3d-scene"></a>
 
@@ -266,4 +266,63 @@ Hy4 Flash (default setting): 53 s, $0.004
 Hydrogen cost 35x the price of Hy4 Flash for the same prompt.
 
 Which one would you ship?
+```
+
+### Comparing two models building a plane mission
+
+[@idlenyro](https://x.com/idlenyro/status/2125326219436814350) · [Watch](https://www.sandbase.ai/lab/media/x/hy4-flash/2125326219436814350/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125326219436814350?utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+i gave 2 FREE models the same prompt: build a GTA 6 style plane mission in one HTML file 😳
+
+hy4 flash: ~13 mins, just wrote it
+deepseek v4.1 flash: ~29 mins, tested and fixed its own build first
+
+no follow-ups. both hit MISSION PASSED
+
+who won? https://x.com/idlenyro/status/2124088145805472252
+```
+
+### Four AI models building a mobile game
+
+[@details_with_ai](https://x.com/details_with_ai/status/2125514383828926596) · [Watch](https://www.sandbase.ai/lab/media/x/hy4-flash/2125514383828926596/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125514383828926596?utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+🔥 Can AI coding agents build a playable mobile game from just ONE prompt?
+
+I tested the same game-building challenge using 4 different AI models inside @WorkBuddy_AI.
+
+Here are the models I tested:
+
+⚡ DeepSeek V4 Flash
+⚡ Hy4 Flash
+⚡ GPT-5.3
+⚡ GLM-5.3-Flash
+
+🎮 The challenge?
+
+Build a complete Number Gate Battle game featuring:
+
+🔹 3-lane movement
+🔹 Number gates to multiply or increase player strength
+🔹 Power collection and enemy battles
+🔹 Multiple weapons and combat mechanics
+🔹 A final boss battle
+🔹 Smooth animations and playable controls
+
+What made this experiment interesting was seeing how four different models approached the same coding challenge and produced different game experiences.
+
+I recorded the gameplay and put the four results side by side so you can see the differences yourself.
+
+My takeaway: The numerical design of GLM-5.3-Flash and GPT-5.3 makes the game too easy; in contrast, the values ​​in DeepseekV4 Flash and Hy4 Flash are more reasonable.
+
+🎁 Want to try it yourself?
+
+Hy4 Flash is available FREE inside WorkBuddy until November 30, 2026.
+
+👉 http://workbuddy.ai/invite?code=HZ578LS8
+
+Thanks to @TencentAI_News and @TencentHunyuan for making this experiment possible.
+
+#Hy4Flash #WorkBuddy #AICoding #GameDevelopment #AI
 ```
