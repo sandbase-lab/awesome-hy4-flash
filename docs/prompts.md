@@ -2,14 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-6 Hy4 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Hy4 Flash on SandBase Lab. New to prompting Hy4 Flash? Start with the [prompt guide](prompt-guide.md).
+12 Hy4 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Hy4 Flash on SandBase Lab. New to prompting Hy4 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (1)
+- [3D scenes](#3d-scene) (3)
 - [Motion graphics](#motion-graphics) (1)
 - [Games](#game) (1)
-- [Tests & comparisons](#comparison) (3)
+- [Tests & comparisons](#comparison) (7)
 
 <a id="3d-scene"></a>
 
@@ -25,6 +25,32 @@ HEY!! This is an exciting model coming locally! Hy4-Flash
 I got early access so got to run a few tests and for 224b with 12b active parameters I like it!
 
 Here's my bee prompt with it. Will post a few more throughout today, this is actually exciting!
+```
+
+### Interactive 3D music room with dynamic lighting
+
+[@GesoraMeshack](https://x.com/GesoraMeshack/status/2123455572465139746) · [Watch](https://www.sandbase.ai/lab/media/x/hy4-flash/2123455572465139746/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123455572465139746?utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+I gave Hy4 Flash and DeepSeek-V4.1-Flash the same prompt in WorkBuddy: build an interactive 3D music room.
+
+Hy4 Flash finished in 31 minutes. DeepSeek took 37.
+
+Here’s the Hy4 Flash version, with changing lights, rain outside, and a clickable laptop.
+```
+
+### A moka pot brewing coffee in Three.js
+
+[@VRAMCalculator](https://x.com/VRAMCalculator/status/2123524789184713006) · [Watch](https://www.sandbase.ai/lab/media/x/hy4-flash/2123524789184713006/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123524789184713006?utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+We made Hy4 Flash brew coffee.
+
+One prompt each, no fixes, no second tries:
+1. Build a moka pot in Blender, take it apart, put it back, cut it open.
+2. Animate how it brews in three.js.
+
+Same laptop, same prompts for every model we test next. Scores below.
 ```
 
 <a id="motion-graphics"></a>
@@ -171,4 +197,73 @@ Same prompt. Same settings. One shot.
 · Claude Opus 5.5: $20/mo
 
 Pick your winner.. Full Breakdown with Prompt👇
+```
+
+### Building a Subway Surfers clone coding comparison
+
+[@HeyToha](https://x.com/HeyToha/status/2123876649410445728) · [Watch](https://www.sandbase.ai/lab/media/x/hy4-flash/2123876649410445728/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123876649410445728?utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+I put Tencent's Hy4 Flash and DeepSeek-V4.1-Flash head-to-head in a real coding challenge.
+
+Both got the exact same prompt: build a playable Subway Surfers clone from scratch.
+
+The results from my tests were quite surprising:
+
+→ Hy4 Flash: 7 minutes 38 seconds
+
+→ DeepSeek-V4.1-Flash: 1 hour 30 minutes
+
+DeepSeek also consumed HALF of my account credits.
+
+I'm genuinely impressed by Hy4 Flash's speed.
+
+Here's the full comparison: 🧵👇
+
+Here's Hy4 Flash building the game. Watch how fast it gets done: (COMPLETED IN JUST 7 MINUTES) ↓↓
+```
+
+### Comparing 3D neon gas station scene generation
+
+[@0xBakeer](https://x.com/0xBakeer/status/2124571168417923471) · [Watch](https://www.sandbase.ai/lab/media/x/hy4-flash/2124571168417923471/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124571168417923471?utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+I gave three quants the same prompt: build a rainy neon gas station at night as one animated 3D page.
+
+Hy4-flash at 3.56 and 3.08 bits per weight, and Qwen3.8-Flash-Next at 3.05. Each one ran in opencode against my engine with nothing around it, reasoning at the maximum, on the DGX Spark.
+
+But the fastest one finished last 👀
+
+Flash-Next writes 67 tok/s and the Hy4 packs write 42 and 43. It still needed 32 min 43 s. The two Hy4 packs finished in 20 min 28 s and 13 min 25 s.
+
+Its run wrote 123k tokens. The Hy4 runs wrote 48k and 31k.
+```
+
+### Side-by-side comparison of two Hy4 Flash quantizations
+
+[@EamonMcKiernan5](https://x.com/EamonMcKiernan5/status/2124900065546244489) · [Watch](https://www.sandbase.ai/lab/media/x/hy4-flash/2124900065546244489/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124900065546244489?utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+Only now realising I never showed off my Hy4 Flash runs in Project Maya😅
+
+@PeasantSmith Hy4-Flash-Maya-M (left) vs Hy4 Flash API (right)
+
+This is an amazing quant, so much quality kept at IQ3-XSS. I don't have many Maya-M demos built so far, but the few I do have, it's genuinley hard to tell which is which.
+
+Full prompt, builds, and session stats on my website linked below!
+```
+
+### Solar system web page generated by two models
+
+[@aapakari](https://x.com/aapakari/status/2125314175467491405) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125314175467491405/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125314175467491405?utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+One prompt, two models: "a small solar system with moons, an asteroid belt and a comet", as one web page.
+
+Gemini 4 Hydrogen (high): 1 min 17 s, $0.15
+Hy4 Flash (default setting): 53 s, $0.004
+
+Hydrogen cost 35x the price of Hy4 Flash for the same prompt.
+
+Which one would you ship?
 ```

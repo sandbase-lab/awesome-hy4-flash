@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 6 条 Hy4 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Hy4 Flash 一键 **复刻**。第一次写 Hy4 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 12 条 Hy4 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Hy4 Flash 一键 **复刻**。第一次写 Hy4 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (1)
+- [3D 场景](#3d-scene) (3)
 - [动效](#motion-graphics) (1)
 - [游戏](#game) (1)
-- [测试对比](#comparison) (3)
+- [测试对比](#comparison) (7)
 
 <a id="3d-scene"></a>
 
@@ -25,6 +25,32 @@ HEY!! This is an exciting model coming locally! Hy4-Flash
 I got early access so got to run a few tests and for 224b with 12b active parameters I like it!
 
 Here's my bee prompt with it. Will post a few more throughout today, this is actually exciting!
+```
+
+### 带动态灯光的交互式3D音乐室
+
+[@GesoraMeshack](https://x.com/GesoraMeshack/status/2123455572465139746) · [观看](https://www.sandbase.ai/lab/media/x/hy4-flash/2123455572465139746/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123455572465139746?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+I gave Hy4 Flash and DeepSeek-V4.1-Flash the same prompt in WorkBuddy: build an interactive 3D music room.
+
+Hy4 Flash finished in 31 minutes. DeepSeek took 37.
+
+Here’s the Hy4 Flash version, with changing lights, rain outside, and a clickable laptop.
+```
+
+### Three.js中模拟摩卡壶煮咖啡
+
+[@VRAMCalculator](https://x.com/VRAMCalculator/status/2123524789184713006) · [观看](https://www.sandbase.ai/lab/media/x/hy4-flash/2123524789184713006/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123524789184713006?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+We made Hy4 Flash brew coffee.
+
+One prompt each, no fixes, no second tries:
+1. Build a moka pot in Blender, take it apart, put it back, cut it open.
+2. Animate how it brews in three.js.
+
+Same laptop, same prompts for every model we test next. Scores below.
 ```
 
 <a id="motion-graphics"></a>
@@ -171,4 +197,73 @@ Same prompt. Same settings. One shot.
 · Claude Opus 5.5: $20/mo
 
 Pick your winner.. Full Breakdown with Prompt👇
+```
+
+### 编写地铁跑酷克隆版代码的模型对比
+
+[@HeyToha](https://x.com/HeyToha/status/2123876649410445728) · [观看](https://www.sandbase.ai/lab/media/x/hy4-flash/2123876649410445728/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123876649410445728?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+I put Tencent's Hy4 Flash and DeepSeek-V4.1-Flash head-to-head in a real coding challenge.
+
+Both got the exact same prompt: build a playable Subway Surfers clone from scratch.
+
+The results from my tests were quite surprising:
+
+→ Hy4 Flash: 7 minutes 38 seconds
+
+→ DeepSeek-V4.1-Flash: 1 hour 30 minutes
+
+DeepSeek also consumed HALF of my account credits.
+
+I'm genuinely impressed by Hy4 Flash's speed.
+
+Here's the full comparison: 🧵👇
+
+Here's Hy4 Flash building the game. Watch how fast it gets done: (COMPLETED IN JUST 7 MINUTES) ↓↓
+```
+
+### 雨夜霓虹加油站3D场景生成对比评测
+
+[@0xBakeer](https://x.com/0xBakeer/status/2124571168417923471) · [观看](https://www.sandbase.ai/lab/media/x/hy4-flash/2124571168417923471/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124571168417923471?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+I gave three quants the same prompt: build a rainy neon gas station at night as one animated 3D page.
+
+Hy4-flash at 3.56 and 3.08 bits per weight, and Qwen3.8-Flash-Next at 3.05. Each one ran in opencode against my engine with nothing around it, reasoning at the maximum, on the DGX Spark.
+
+But the fastest one finished last 👀
+
+Flash-Next writes 67 tok/s and the Hy4 packs write 42 and 43. It still needed 32 min 43 s. The two Hy4 packs finished in 20 min 28 s and 13 min 25 s.
+
+Its run wrote 123k tokens. The Hy4 runs wrote 48k and 31k.
+```
+
+### Hy4 Flash两种量化版本的对比演示
+
+[@EamonMcKiernan5](https://x.com/EamonMcKiernan5/status/2124900065546244489) · [观看](https://www.sandbase.ai/lab/media/x/hy4-flash/2124900065546244489/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124900065546244489?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+Only now realising I never showed off my Hy4 Flash runs in Project Maya😅
+
+@PeasantSmith Hy4-Flash-Maya-M (left) vs Hy4 Flash API (right)
+
+This is an amazing quant, so much quality kept at IQ3-XSS. I don't have many Maya-M demos built so far, but the few I do have, it's genuinley hard to tell which is which.
+
+Full prompt, builds, and session stats on my website linked below!
+```
+
+### 两款模型生成的太阳系网页对比
+
+[@aapakari](https://x.com/aapakari/status/2125314175467491405) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125314175467491405/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125314175467491405?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-hy4-flash&utm_content=prompt-index)
+
+```text
+One prompt, two models: "a small solar system with moons, an asteroid belt and a comet", as one web page.
+
+Gemini 4 Hydrogen (high): 1 min 17 s, $0.15
+Hy4 Flash (default setting): 53 s, $0.004
+
+Hydrogen cost 35x the price of Hy4 Flash for the same prompt.
+
+Which one would you ship?
 ```

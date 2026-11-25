@@ -13,7 +13,7 @@
   "durationMs": 32000,
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122201963412795535/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122201963412795535/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2122201963412795535"
  },
@@ -31,7 +31,7 @@
   "durationMs": 20000,
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122237720546132278/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122237720546132278/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2122237720546132278"
  },
@@ -140,7 +140,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122350545977618841/video.mp4",
   "promptShared": true,
   "promptText": "刚刚再次测评了一下 腾讯混元今天的新模型HY4 flash！\n\n我拿 GP6.1 sol 跟他 做了1版\n\n提示词都一下的：创建一个 HTML，内容是 SVG 绘制一个鹈鹕骑自行车的 2D 动画。\n\n画面你们看了也知道 😂\n\nHY4 flash 和豆包一个级别\n\n好在，目前是免费的\n\n它的核心参数如下\n\n总参数：2240 亿\n激活参数：120 亿\n上下文：100 万 Token\n推理速度：超过 150 Token/s\n支持多模态输入\n\n综合来说，在低成本这方面来说，性价比还是蛮高的",
-  "featured": 3,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122350545977618841/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2122350545977618841"
  },
@@ -159,7 +159,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122411723936485494/video.mp4",
   "promptShared": true,
   "promptText": "HEY!! This is an exciting model coming locally! Hy4-Flash\n\nI got early access so got to run a few tests and for 224b with 12b active parameters I like it!\n\nHere's my bee prompt with it. Will post a few more throughout today, this is actually exciting!",
-  "featured": null,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122411723936485494/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2122411723936485494"
  },
@@ -202,24 +202,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2122429321151435237"
  },
  {
-  "id": "2122450891613868137",
-  "title": "Three.js terrain scene comparison between two models",
-  "title_zh": "Three.js地形场景模型生成对比",
-  "category": "comparison",
-  "author": {
-   "handle": "ItsmeAjayKV",
-   "name": "AJ"
-  },
-  "postUrl": "https://x.com/ItsmeAjayKV/status/2122450891613868137",
-  "createdAt": "2026-11-16T22:05:00.000Z",
-  "durationMs": 35683,
-  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122450891613868137/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122450891613868137/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2122450891613868137"
- },
- {
   "id": "2122481844578881884",
   "title": "One-shot model performance comparison",
   "title_zh": "单次提示词模型生成效果对比",
@@ -230,7 +212,7 @@
   },
   "postUrl": "https://x.com/ItsmeAjayKV/status/2122481844578881884",
   "createdAt": "2026-11-17T00:08:00.000Z",
-  "durationMs": 36250,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122481844578881884/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -248,7 +230,7 @@
   },
   "postUrl": "https://x.com/naymur_dev/status/2122484469215158409",
   "createdAt": "2026-11-17T00:18:25.000Z",
-  "durationMs": 37407,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/qwen4-max/2122484469215158409/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -266,7 +248,7 @@
   },
   "postUrl": "https://x.com/MichaelGannotti/status/2122493055802495285",
   "createdAt": "2026-11-17T00:52:33.000Z",
-  "durationMs": 52500,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122493055802495285/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -284,7 +266,7 @@
   },
   "postUrl": "https://x.com/Jbm_dev/status/2122493755697844338",
   "createdAt": "2026-11-17T00:55:20.000Z",
-  "durationMs": 62666,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2122493755697844338/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -305,7 +287,7 @@
   "durationMs": 148166,
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122494161236451618/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122494161236451618/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2122494161236451618"
  },
@@ -374,7 +356,7 @@
   },
   "postUrl": "https://x.com/K1sqttPHfC41982/status/2122596232237625472",
   "createdAt": "2026-11-17T07:42:32.000Z",
-  "durationMs": 24000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122596232237625472/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -410,7 +392,7 @@
   },
   "postUrl": "https://x.com/shabnam_774/status/2122624548076228895",
   "createdAt": "2026-11-17T09:35:03.000Z",
-  "durationMs": 36666,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2122624548076228895/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -428,7 +410,7 @@
   },
   "postUrl": "https://x.com/0x_fokki/status/2122644820711645328",
   "createdAt": "2026-11-17T10:55:36.000Z",
-  "durationMs": 12000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2122644820711645328/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -446,7 +428,7 @@
   },
   "postUrl": "https://x.com/ItsmeAjayKV/status/2122653322775769441",
   "createdAt": "2026-11-17T11:29:23.000Z",
-  "durationMs": 34400,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122653322775769441/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -464,7 +446,7 @@
   },
   "postUrl": "https://x.com/notjazii/status/2122684074787778616",
   "createdAt": "2026-11-17T13:31:35.000Z",
-  "durationMs": 22366,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2122684074787778616/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -503,7 +485,7 @@
   "durationMs": 36053,
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122724443231293891/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122724443231293891/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2122724443231293891"
  },
@@ -518,7 +500,7 @@
   },
   "postUrl": "https://x.com/noclipepe/status/2122728283208839285",
   "createdAt": "2026-11-17T16:27:15.000Z",
-  "durationMs": 40666,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122728283208839285/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -539,7 +521,7 @@
   "durationMs": 35433,
   "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122902579453800476/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2122902579453800476/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2122902579453800476"
  },
@@ -554,7 +536,7 @@
   },
   "postUrl": "https://x.com/riyazmd774/status/2122919755841757479",
   "createdAt": "2026-11-18T05:08:06.000Z",
-  "durationMs": 40200,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2122919755841757479/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -572,7 +554,7 @@
   },
   "postUrl": "https://x.com/s_mohinii/status/2122921428576354382",
   "createdAt": "2026-11-18T05:14:45.000Z",
-  "durationMs": 67666,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2122921428576354382/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -590,7 +572,7 @@
   },
   "postUrl": "https://x.com/Parul_Gautam7/status/2122972249762455876",
   "createdAt": "2026-11-18T08:36:41.000Z",
-  "durationMs": 7299,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2122972249762455876/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -608,7 +590,7 @@
   },
   "postUrl": "https://x.com/JacobyoungAI/status/2122995650727985153",
   "createdAt": "2026-11-18T10:09:41.000Z",
-  "durationMs": 33200,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2122995650727985153/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -682,11 +664,413 @@
   },
   "postUrl": "https://x.com/n__deborah/status/2123085937647505658",
   "createdAt": "2026-11-18T16:08:27.000Z",
-  "durationMs": 24000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2123085937647505658/video.mp4",
   "promptShared": false,
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2123085937647505658/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123085937647505658"
+ },
+ {
+  "id": "2123305496870609086",
+  "title": "Fortnite game clone built with AI",
+  "title_zh": "使用AI构建的堡垒之夜游戏",
+  "category": "game",
+  "author": {
+   "handle": "tylerrwayne",
+   "name": "Tyler Wayne"
+  },
+  "postUrl": "https://x.com/tylerrwayne/status/2123305496870609086",
+  "createdAt": "2026-11-19T06:40:54.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123305496870609086/video.mp4",
+  "promptShared": false,
+  "featured": 0,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123305496870609086/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123305496870609086"
+ },
+ {
+  "id": "2123455572465139746",
+  "title": "Interactive 3D music room with dynamic lighting",
+  "title_zh": "带动态灯光的交互式3D音乐室",
+  "category": "3d-scene",
+  "author": {
+   "handle": "GesoraMeshack",
+   "name": "Orikan"
+  },
+  "postUrl": "https://x.com/GesoraMeshack/status/2123455572465139746",
+  "createdAt": "2026-11-19T16:37:15.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123455572465139746/video.mp4",
+  "promptShared": true,
+  "promptText": "I gave Hy4 Flash and DeepSeek-V4.1-Flash the same prompt in WorkBuddy: build an interactive 3D music room.\n\nHy4 Flash finished in 31 minutes. DeepSeek took 37.\n\nHere’s the Hy4 Flash version, with changing lights, rain outside, and a clickable laptop.",
+  "featured": 1,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123455572465139746/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123455572465139746"
+ },
+ {
+  "id": "2123524789184713006",
+  "title": "A moka pot brewing coffee in Three.js",
+  "title_zh": "Three.js中模拟摩卡壶煮咖啡",
+  "category": "3d-scene",
+  "author": {
+   "handle": "VRAMCalculator",
+   "name": "VRAMCalculator"
+  },
+  "postUrl": "https://x.com/VRAMCalculator/status/2123524789184713006",
+  "createdAt": "2026-11-19T21:12:17.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123524789184713006/video.mp4",
+  "promptShared": true,
+  "promptText": "We made Hy4 Flash brew coffee.\n\nOne prompt each, no fixes, no second tries:\n1. Build a moka pot in Blender, take it apart, put it back, cut it open.\n2. Animate how it brews in three.js.\n\nSame laptop, same prompts for every model we test next. Scores below.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123524789184713006/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123524789184713006"
+ },
+ {
+  "id": "2123581701607870847",
+  "title": "Playable futuristic endless runner browser game",
+  "title_zh": "可在浏览器中游玩的未来风格跑酷游戏",
+  "category": "game",
+  "author": {
+   "handle": "mimu_ai1",
+   "name": "Mimu | AI Tools & News"
+  },
+  "postUrl": "https://x.com/mimu_ai1/status/2123581701607870847",
+  "createdAt": "2026-11-20T00:58:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123581701607870847/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123581701607870847/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123581701607870847"
+ },
+ {
+  "id": "2123750863533646144",
+  "title": "Testing three models for making explainer videos",
+  "title_zh": "用于制作解说视频的三款模型测试对比",
+  "category": "comparison",
+  "author": {
+   "handle": "hanifproduktif",
+   "name": "Hanif | AI For Productivity"
+  },
+  "postUrl": "https://x.com/hanifproduktif/status/2123750863533646144",
+  "createdAt": "2026-11-20T12:10:37.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123750863533646144/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123750863533646144/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123750863533646144"
+ },
+ {
+  "id": "2123802675464560700",
+  "title": "AI news roundup on exam cheating and orbital tests",
+  "title_zh": "韩国防范AI作弊及谷歌轨道测试等AI新闻播报",
+  "category": "explainer",
+  "author": {
+   "handle": "Romka2x",
+   "name": "🇺🇸 Roman R 🇺🇸"
+  },
+  "postUrl": "https://x.com/Romka2x/status/2123802675464560700",
+  "createdAt": "2026-11-20T15:36:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123802675464560700/video.mp4",
+  "promptShared": false,
+  "featured": 7,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123802675464560700/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123802675464560700"
+ },
+ {
+  "id": "2123802964661809425",
+  "title": "AI news report on exam overhauls and testing",
+  "title_zh": "关于考试改革与AI测试的新闻播报",
+  "category": "explainer",
+  "author": {
+   "handle": "Romka2x",
+   "name": "🇺🇸 Roman R 🇺🇸"
+  },
+  "postUrl": "https://x.com/Romka2x/status/2123802964661809425",
+  "createdAt": "2026-11-20T15:37:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123802964661809425/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123802964661809425/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123802964661809425"
+ },
+ {
+  "id": "2123824696714215768",
+  "title": "Pagoda tower defense game proof of concept",
+  "title_zh": "宝塔塔防游戏概念验证演示",
+  "category": "game",
+  "author": {
+   "handle": "PeasantSmith",
+   "name": "Peasant Smith"
+  },
+  "postUrl": "https://x.com/PeasantSmith/status/2123824696714215768",
+  "createdAt": "2026-11-20T17:04:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123824696714215768/video.mp4",
+  "promptShared": false,
+  "featured": 4,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123824696714215768/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123824696714215768"
+ },
+ {
+  "id": "2123876649410445728",
+  "title": "Building a Subway Surfers clone coding comparison",
+  "title_zh": "编写地铁跑酷克隆版代码的模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "HeyToha",
+   "name": "Toha Khan"
+  },
+  "postUrl": "https://x.com/HeyToha/status/2123876649410445728",
+  "createdAt": "2026-11-20T20:30:27.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123876649410445728/video.mp4",
+  "promptShared": true,
+  "promptText": "I put Tencent's Hy4 Flash and DeepSeek-V4.1-Flash head-to-head in a real coding challenge.\n\nBoth got the exact same prompt: build a playable Subway Surfers clone from scratch.\n\nThe results from my tests were quite surprising:\n\n→ Hy4 Flash: 7 minutes 38 seconds\n\n→ DeepSeek-V4.1-Flash: 1 hour 30 minutes\n\nDeepSeek also consumed HALF of my account credits.\n\nI'm genuinely impressed by Hy4 Flash's speed.\n\nHere's the full comparison: 🧵👇\n\nHere's Hy4 Flash building the game. Watch how fast it gets done: (COMPLETED IN JUST 7 MINUTES) ↓↓",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123876649410445728/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123876649410445728"
+ },
+ {
+  "id": "2123891638179389766",
+  "title": "Local PC inference speed test for Hy4 Flash",
+  "title_zh": "Hy4-Flash本地PC推理性能测试",
+  "category": "ui-demo",
+  "author": {
+   "handle": "TeksEdge",
+   "name": "David Hendrickson"
+  },
+  "postUrl": "https://x.com/TeksEdge/status/2123891638179389766",
+  "createdAt": "2026-11-20T21:30:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123891638179389766/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2123891638179389766/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2123891638179389766"
+ },
+ {
+  "id": "2124075165533507913",
+  "title": "Comparison between Inkling-2-mini and Hy4-Flash",
+  "title_zh": "Inkling-2-mini 与 Hy4-Flash 效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "ItsmeAjayKV",
+   "name": "AJ"
+  },
+  "postUrl": "https://x.com/ItsmeAjayKV/status/2124075165533507913",
+  "createdAt": "2026-11-21T09:39:17.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124075165533507913/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124075165533507913/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124075165533507913"
+ },
+ {
+  "id": "2124109170869711232",
+  "title": "Comparing AI credit multipliers in WorkBuddy",
+  "title_zh": "WorkBuddy中AI模型点数倍率对比与列车可视化",
+  "category": "data-viz",
+  "author": {
+   "handle": "Lummox_eth",
+   "name": "Lummox"
+  },
+  "postUrl": "https://x.com/Lummox_eth/status/2124109170869711232",
+  "createdAt": "2026-11-21T11:54:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124109170869711232/video.mp4",
+  "promptShared": false,
+  "featured": 5,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124109170869711232/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124109170869711232"
+ },
+ {
+  "id": "2124126432464978309",
+  "title": "Two AI models roasting each other",
+  "title_zh": "两个AI模型互相吐槽测试",
+  "category": "comparison",
+  "author": {
+   "handle": "Razumasu",
+   "name": "Razu"
+  },
+  "postUrl": "https://x.com/Razumasu/status/2124126432464978309",
+  "createdAt": "2026-11-21T13:03:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124126432464978309/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124126432464978309/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124126432464978309"
+ },
+ {
+  "id": "2124487686182285811",
+  "title": "A 3D moka pot in Blender and Three.js",
+  "title_zh": "Blender和Three.js中的3D摩卡壶模型",
+  "category": "3d-scene",
+  "author": {
+   "handle": "VRAMCalculator",
+   "name": "VRAMCalculator"
+  },
+  "postUrl": "https://x.com/VRAMCalculator/status/2124487686182285811",
+  "createdAt": "2026-11-22T12:58:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2124487686182285811/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2124487686182285811/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124487686182285811"
+ },
+ {
+  "id": "2124571168417923471",
+  "title": "Comparing 3D neon gas station scene generation",
+  "title_zh": "雨夜霓虹加油站3D场景生成对比评测",
+  "category": "comparison",
+  "author": {
+   "handle": "0xBakeer",
+   "name": "0xBakeer"
+  },
+  "postUrl": "https://x.com/0xBakeer/status/2124571168417923471",
+  "createdAt": "2026-11-22T18:30:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124571168417923471/video.mp4",
+  "promptShared": true,
+  "promptText": "I gave three quants the same prompt: build a rainy neon gas station at night as one animated 3D page.\n\nHy4-flash at 3.56 and 3.08 bits per weight, and Qwen3.8-Flash-Next at 3.05. Each one ran in opencode against my engine with nothing around it, reasoning at the maximum, on the DGX Spark.\n\nBut the fastest one finished last 👀\n\nFlash-Next writes 67 tok/s and the Hy4 packs write 42 and 43. It still needed 32 min 43 s. The two Hy4 packs finished in 20 min 28 s and 13 min 25 s.\n\nIts run wrote 123k tokens. The Hy4 runs wrote 48k and 31k.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124571168417923471/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124571168417923471"
+ },
+ {
+  "id": "2124835660666474897",
+  "title": "Generating a voxel style Rome in Three.js",
+  "title_zh": "使用Three.js生成体素风格罗马城测试",
+  "category": "3d-scene",
+  "author": {
+   "handle": "beingsalluu",
+   "name": "SALLU"
+  },
+  "postUrl": "https://x.com/beingsalluu/status/2124835660666474897",
+  "createdAt": "2026-11-23T12:01:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124835660666474897/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124835660666474897/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124835660666474897"
+ },
+ {
+  "id": "2124863471737057435",
+  "title": "Browser racing game built by two AI models",
+  "title_zh": "两款AI模型构建的网页赛车游戏对比",
+  "category": "comparison",
+  "author": {
+   "handle": "heylogania",
+   "name": "Logan | AI"
+  },
+  "postUrl": "https://x.com/heylogania/status/2124863471737057435",
+  "createdAt": "2026-11-23T13:51:44.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2124863471737057435/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/deepseek-v4-1-flash-1017/2124863471737057435/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124863471737057435"
+ },
+ {
+  "id": "2124900065546244489",
+  "title": "Side-by-side comparison of two Hy4 Flash quantizations",
+  "title_zh": "Hy4 Flash两种量化版本的对比演示",
+  "category": "comparison",
+  "author": {
+   "handle": "EamonMcKiernan5",
+   "name": "Eamon McKiernan"
+  },
+  "postUrl": "https://x.com/EamonMcKiernan5/status/2124900065546244489",
+  "createdAt": "2026-11-23T16:17:09.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124900065546244489/video.mp4",
+  "promptShared": true,
+  "promptText": "Only now realising I never showed off my Hy4 Flash runs in Project Maya😅\n\n@PeasantSmith Hy4-Flash-Maya-M (left) vs Hy4 Flash API (right)\n\nThis is an amazing quant, so much quality kept at IQ3-XSS. I don't have many Maya-M demos built so far, but the few I do have, it's genuinley hard to tell which is which.\n\nFull prompt, builds, and session stats on my website linked below!",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124900065546244489/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124900065546244489"
+ },
+ {
+  "id": "2124956037690040506",
+  "title": "Side-by-side Three.js benchmark between Hy4 and Inkling",
+  "title_zh": "Hy4-Flash与Inkling-2在Three.js场景生成中的对比",
+  "category": "comparison",
+  "author": {
+   "handle": "NicolaManzini",
+   "name": "Nicola"
+  },
+  "postUrl": "https://x.com/NicolaManzini/status/2124956037690040506",
+  "createdAt": "2026-11-23T19:59:33.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124956037690040506/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2124956037690040506/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2124956037690040506"
+ },
+ {
+  "id": "2125219652653711696",
+  "title": "Procedural trees rendered on 3D terrain",
+  "title_zh": "在3D地形上渲染的程序化树木",
+  "category": "3d-scene",
+  "author": {
+   "handle": "nawariokra",
+   "name": "irawanw"
+  },
+  "postUrl": "https://x.com/nawariokra/status/2125219652653711696",
+  "createdAt": "2026-11-24T13:27:04.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125219652653711696/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125219652653711696/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125219652653711696"
+ },
+ {
+  "id": "2125260403462766786",
+  "title": "Tandem workflow automated by Hy4 Flash orchestrator",
+  "title_zh": "Hy4-Flash驱动的Tandem自动化开发与验证流程",
+  "category": "ui-demo",
+  "author": {
+   "handle": "0xBakeer",
+   "name": "0xBakeer"
+  },
+  "postUrl": "https://x.com/0xBakeer/status/2125260403462766786",
+  "createdAt": "2026-11-24T16:09:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125260403462766786/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125260403462766786/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125260403462766786"
+ },
+ {
+  "id": "2125314175467491405",
+  "title": "Solar system web page generated by two models",
+  "title_zh": "两款模型生成的太阳系网页对比",
+  "category": "comparison",
+  "author": {
+   "handle": "aapakari",
+   "name": "Aapakari"
+  },
+  "postUrl": "https://x.com/aapakari/status/2125314175467491405",
+  "createdAt": "2026-11-24T19:42:40.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125314175467491405/video.mp4",
+  "promptShared": true,
+  "promptText": "One prompt, two models: \"a small solar system with moons, an asteroid belt and a comet\", as one web page.\n\nGemini 4 Hydrogen (high): 1 min 17 s, $0.15\nHy4 Flash (default setting): 53 s, $0.004\n\nHydrogen cost 35x the price of Hy4 Flash for the same prompt.\n\nWhich one would you ship?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125314175467491405/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125314175467491405"
  }
 ]
