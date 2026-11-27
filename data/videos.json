@@ -1146,5 +1146,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2125514383828926596/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2125514383828926596"
+ },
+ {
+  "id": "2126072729573130422",
+  "title": "A voxel pagoda garden rendered with WebGL",
+  "title_zh": "使用原生 WebGL 渲染的体素宝塔花园",
+  "category": "comparison",
+  "author": {
+   "handle": "aartiles24",
+   "name": "Alfredo Artiles 🇨🇺"
+  },
+  "postUrl": "https://x.com/aartiles24/status/2126072729573130422",
+  "createdAt": "2026-11-26T21:56:53.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2126072729573130422/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2126072729573130422/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2126072729573130422"
+ },
+ {
+  "id": "2126220504495542736",
+  "title": "Building a website in a single chat thread",
+  "title_zh": "在单个对话流中构建完整网站",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Tech_Apex0",
+   "name": "Apex AI"
+  },
+  "postUrl": "https://x.com/Tech_Apex0/status/2126220504495542736",
+  "createdAt": "2026-11-27T07:44:06.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/hy4-flash/2126220504495542736/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/hy4-flash/2126220504495542736/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/hy4-flash/2126220504495542736"
  }
 ]
